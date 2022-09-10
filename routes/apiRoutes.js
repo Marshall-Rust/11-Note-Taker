@@ -1,6 +1,6 @@
 const router = require('express').Router();
 
-const store = require('../../../Desktop/untitled folder/Note-Taker/db/store');
+const store = require('../db/store');
 
 // requesting the existing notes
 
